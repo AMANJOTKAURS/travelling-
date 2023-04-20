@@ -1,0 +1,23 @@
+.card{
+    align-items: center;
+    justify-content: center;
+    height: 53vh;
+    margin-top:15px;
+    transition: all 0.3s ease;
+    /* transform: scale(1.14); */
+}
+.bg{
+    height: 35vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bg>h1{
+color: white;
+font-family: 'Times New Roman', Times, serif;
+}
+.p1{
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    text-align: center;
+    }

@@ -1,0 +1,54 @@
+nav{
+   height: 60px;
+    background: rgb(38, 38, 171);
+}
+.navbar-brand>h3{
+    color: rgb(0, 0, 0);
+    
+    font-family:Lucida Handwriting;
+    font-weight: bolder;
+    
+}
+.nav-link{
+    margin-top: 10px;
+    color: rgb(63, 63, 63);
+    float: left;
+    font-size: 18px;
+}
+.nav-link:hover{
+    font-size: 19px;
+    color: black;
+    
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background: black;
+}
+.btn{
+    height: 10px;
+    width: 70px;
+    
+    
+}
+
+.abc{
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+.abc:hover{
+   font-size: 18px;
+   color: whitesmoke;
+}
+.btn:hover{
+    background-color: rgb(6, 93, 93);
+    color: whitesmoke;
+}
+.logo{
+    height: auto;
+}
+.img1{
+    height: 110px;
+}

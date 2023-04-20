@@ -1,0 +1,147 @@
+/* .each-slide-effect{
+  height: 944px;
+  margin-top: -100px;
+  background-color: azure;
+} */
+
+
+.d-block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 90vh;
+  }
+  
+  /* .each-slide-effect span {
+    padding: 20px;
+    font-size: 20px;
+    background: #efefef;
+    text-align: center;
+  } */
+h2{
+
+    color: whitesmoke;
+    text-align: bottom;
+    text-shadow: 24px white;
+}
+.home-page>p{
+  color: rgb(13, 13, 13);
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: justify;
+  margin: 30px;
+}
+.home-page>h1{
+  text-align: center;
+  margin-top: 15px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.qoute{
+  font-family: Circular, Arial, sans-serif;;
+}
+.qoute2{
+  font-family: 'Javanese Text';
+}
+
+.main-dest{
+  background-color: aquamarine;
+  height: 550px;
+  margin: 40px;
+  /* display: flex;
+  justify-content: space-between; */
+}
+.Pop-dest{
+  text-align: center;
+  margin: 15px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.dest{
+  margin: 20px;
+ 
+  height: 270px;
+  /* border: solid black 1px; */
+  /* box-shadow: 2px 2px 2px 2px; */
+}
+.img4{
+  height: 215px;
+  width: 100%;
+  
+}
+.dest-hd{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+.destination{
+  box-shadow: 2px 0px 2px 0px;
+}
+
+.Pop-pack{
+  text-align: center;
+  margin: 35px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.Pop-pack{
+  text-align: center;
+  margin: 35px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.mon>h1{
+  text-align: center;
+  margin: 35px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.p2{
+  
+  color: rgb(9, 9, 9);
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  margin: 30px;
+}
+.month>.btn{
+  margin: 14px;
+  
+}
+.footer{
+  background: rgb(71, 58, 248);
+  height: 150px;
+  width: 100%;
+}
+.search-footer{
+  height: 40px;
+  width: 300px;
+  margin-top: 20px;
+}
+
+.form-footer>.btn{
+  
+  margin-top: -5px;
+  margin-left: 10px;
+}
+.link{
+  color: black;
+  float: left;
+  margin-left: 20px;
+  
+}
+.footer-1>ul{
+  display: flex;
+  justify-content: space-around;
+  text-decoration: none;
+  
+}
+.abc{
+  color: whitesmoke;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  text-decoration: none;
+}
+.s2{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Foot-link{
+  color: white;
+}

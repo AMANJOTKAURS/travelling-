@@ -1,0 +1,21 @@
+ul>li{
+    margin-left: 20px;
+}
+.D{
+    background-color: rgb(13, 101, 101);
+}
+.D1>p{
+    color: white;
+}
+.D1>h2{
+    color: white;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: 30px;
+    margin-top: 10px;
+}
